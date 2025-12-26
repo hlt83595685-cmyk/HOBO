@@ -1,0 +1,5 @@
+{
+  "name": "ScholarLens AI",
+  "description": "An AI-powered academic PDF assistant for researchers. Features automatic extraction of summaries, methods, and innovations, with LaTeX/Markdown rendering and AI-generated methodology illustrations.",
+  "requestFramePermissions": []
+}
